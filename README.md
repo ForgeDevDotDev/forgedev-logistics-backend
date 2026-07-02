@@ -39,31 +39,14 @@ Contributions are welcome! Please read:
 - **ForgeDev:** https://forgedev.dev
 - **GitHub Org:** https://github.com/ForgeDevDotDev
 - **Contact:** info@forgedev.dev
+
 ---
 
 ## 📁 Related Repositories
 
-**Frontend:**
+Backend API for the **Logistics** domain. Serves these frontends:
 
-| Repo | Framework | Domain |
-|------|-----------|--------|
-| forgedev-fintech-react | React | Fintech |
-| forgedev-fintech-vue | Vue | Fintech |
-| forgedev-ecommerce-react | React | E-commerce |
-| forgedev-ecommerce-vue | Vue | E-commerce |
-| forgedev-hospitality-react | React | Hospitality |
-| forgedev-hospitality-vue | Vue | Hospitality |
-| forgedev-logistics-react | React | Logistics |
-| forgedev-logistics-vue | Vue | Logistics |
-| forgedev-saas-react | React | SaaS |
-| forgedev-saas-vue | Vue | SaaS |
-
-**Backend (one per domain):**
-
-| Repo | Domain | Connects To |
-|------|--------|------------|
-| forgedev-fintech-backend | Fintech | fintech-react, fintech-vue |
-| forgedev-ecommerce-backend | E-commerce | ecommerce-react, ecommerce-vue |
-| forgedev-hospitality-backend | Hospitality | hospitality-react, hospitality-vue |
-| forgedev-logistics-backend | Logistics | logistics-react, logistics-vue |
-| forgedev-saas-backend | SaaS | saas-react, saas-vue |
+| Repo | Framework |
+|------|-----------|
+| forgedev-logistics-react | React |
+| forgedev-logistics-vue | Vue |
